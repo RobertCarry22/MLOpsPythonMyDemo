@@ -2,7 +2,7 @@ cwd=$(pwd)
 
 cd train
 poetry install
-
+ 
 cd $cwd
 
 cd train/extraction
